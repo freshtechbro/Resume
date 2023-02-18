@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#mypicture {
+  width: 150px;
+}
+
+th {
+  text-align: left;
+}
